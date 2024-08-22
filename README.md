@@ -55,8 +55,8 @@ This repository contains the code for a Python-based microservices application d
 ## Clone the Repository
 
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/Marzia-Jahan-Momo/Converter.git
+   cd Converter
    ```
 
 ## Apply the manifest file for each microservice:
